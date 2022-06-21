@@ -295,3 +295,11 @@ input:focus {
     background-position: 0% 50%;
   }
 }
+
+.first-row input {
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+input[placeholder='whats ur ninja power?'] {
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
